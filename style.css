@@ -1,0 +1,36 @@
+footer {
+    text-align: center;
+}
+img {
+    display: block;
+    clear: both;
+    border-radius: 1em;
+}
+
+body{
+    background-color: yellow;
+}
+
+main {
+   
+    display: flex;
+}
+
+section {
+    margin: auto;
+    flex-shrink: 1;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 1em;
+    padding: 1em;
+
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
